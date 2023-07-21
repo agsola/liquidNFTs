@@ -3,6 +3,9 @@
 
 Introducing **liquidNFTs**, a groundbreaking standard extension and dApp that revolutionizes the world of Non-Fungible Tokens (NFTs) by unlocking and amplifying their intrinsic value. With liquidNFTs, you can **say goodbye to concerns about scams and dropping collection floor prices**.
 
+![image](https://github.com/agsola/liquidNFTs/assets/472079/8ae8785e-21f2-4ec2-8a43-2ef31bdb8a13)
+
+
 By combining the power of the "burn-to-withdraw" and staking, liquidNFTs establishes a unique synergy that transcends the mere artistic and community appeal of NFTs. It **empowers NFT owners** to not only enjoy the benefits of owning rare digital assets and participating in vibrant communities but also venture into a whole new realm of economic possibilities.
 
 Through the "**burn-to-withdraw**" mechanism, users have the ability to reclaim their initial investment along with a portion of the generated yield, offering a compelling incentive to hold onto their NFTs. Furthermore, by seamlessly integrating **LSDs** (Liquid Staking Derivaties, like sCanto by BLOTR PROTOCOL), liquidNFTs provides users with the opportunity to **increase the value of their NFTs over time and generate additional yield**. Currently, sCANTO offers an APY of 8.61%, which is quite high for the purpouse.
@@ -25,6 +28,9 @@ https://docs.google.com/presentation/d/15uJHea_Otp3nlebEcT-BwhZgXAO2qzJcri0-ogiL
 
 **Secondly**, liquidNFTs introduces a groundbreaking **paradigm of DeFi NFTs** through the integration of staking and burn-to-withdraw mechanisms. With liquidNFTs, concerns about scams and questionable projects become a thing of the past.
 
+![image](https://github.com/agsola/liquidNFTs/assets/472079/84204eed-1551-4cdf-aee7-63165fc63aae)
+
+
 Now, let's delve into some of the fantastic features that make liquidNFTs truly unique.
 
 
@@ -43,6 +49,8 @@ Also, the longer an NFT is held, the more value it accumulates (as the value is 
 2.  **Order of Burn**: The number of people who have burned the NFT also impacts the amount received. If you are among the first to burn, you will incur the maximum penalty. Conversely, if you are one of the last to burn, not only will you avoid penalties, but you will also receive rewards derived from a portion of the penalties imposed on early burners. Additionally, you will benefit from the generated yield during the holding period. This encourages to hold the NFTs for long time.
 
 3.  **Penalties and Fees**: The creator of the collection can set specific penalties and fees associated with burning and minting the NFT. Lower penalties and fees result in a higher return for the burner, incentivizing collectors to choose collections with more favorable terms.
+
+![image](https://github.com/agsola/liquidNFTs/assets/472079/72363c1b-3f67-4c14-ace4-fa4c781697b6)
 
 These three factors collectively contribute to the final amount refunded when an NFT is burned in liquidNFTs. By carefully considering these aspects, users can strategically navigate the burn-to-withdraw process to optimize their returns and maximize the benefits of holding their NFTs.
 
@@ -66,6 +74,9 @@ The order in which NFTs are burned also plays a crucial role in the penalty syst
 
 **Rewards for Late Burners:**
 Late burners, who hold their NFTs for a more extended duration, are rewarded for their commitment. They receive a portion of the penalties incurred by early burners, allowing them to benefit from the penalties imposed on those who burned their NFTs prematurely. Additionally, late burners may also receive rewards in the form of yield generated over time from their contributions to the liquidNFTs ecosystem. These rewards serve as an incentive for users to support the project's growth and actively engage with the community.
+
+![image](https://github.com/agsola/liquidNFTs/assets/472079/5cbe8dd0-81a4-4e23-83b1-ec6faf18b75a)
+
 
 By combining penalties based on duration and burn order, liquidNFTs establishes a comprehensive early-burning penalty system. This approach fosters a sustainable NFT ecosystem, encourages long-term ownership, and rewards late burners for their commitment and contribution to the NFT collection.
 
@@ -100,6 +111,7 @@ This feature allows NFT owners to individually withdraw both rewards they have g
 
 Levereging on Canto's Contract Secured Revenue (CSR), we allow the collection owner to earn extra revenue just from the interactions of the users with the NFT collection contract.
 
+![image](https://github.com/agsola/liquidNFTs/assets/472079/1fcb193d-a0c2-48b3-9590-408b1dce5114)
 
 
 ## Benefits of liquidNFTs
@@ -111,6 +123,8 @@ liquidNFTs revolutionizes the NFT experience for collectors, offering a range of
 2.  **Reduced Risk and Increased Trust**: The burn-to-withdraw mechanism mitigates the risk of losing money on NFT purchases. Collectors have the option to burn their NFTs and receive a refund, ensuring a safety net and fostering trust in the liquidNFTs ecosystem.
 
 3.  **Opportunity for Yield Generation**: By staking their NFTs through the Canto staking mechanisms, collectors can actively participate in the growth of their NFT holdings and earn rewards based on their contribution. This incentivizes long-term ownership and encourages collectors to actively engage in the liquidNFTs community, creating better and bigger NFT communities.
+
+![image](https://github.com/agsola/liquidNFTs/assets/472079/55621b7f-3ad4-4600-8fba-b73cf0f0c1a2)
 
 
 ### Benefits for Creators
@@ -152,7 +166,7 @@ Through its revolutionary features, liquidNFTs actively contributes to the evolu
 ## Feedback
 
 
-If you have any feedback / suggestions, please reach out to us at [liquidNFTs@nfts2me.com](mailto:liquidNFTs@nfts2me.com)
+If you have any feedback / suggestions, please reach out to us at [liquidNFTs@nfts2me.com](mailto:liquidNFTs@agsola.com)
 
   
 ## Follow us
