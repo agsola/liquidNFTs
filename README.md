@@ -12,6 +12,11 @@ Through the "**burn-to-withdraw**" mechanism, users have the ability to reclaim 
 
 With liquidNFTs, purchasing an NFT from a collection goes beyond mere ownership; it becomes a gateway to **yield generation** and **risk mitigation**. Creators can confidently set higher prices for their NFTs, knowing that the risks for collectors have been effectively eliminated. This enables creators to focus on delivering exceptional value to their collections and fostering a robust and thriving community of NFT enthusiasts.
 
+## dApp link
+
+https://liquidnfts.site/
+
+
 ## DEMO VIDEO
 
 https://www.youtube.com/watch?v=lUnHzch1CoQ
@@ -19,6 +24,13 @@ https://www.youtube.com/watch?v=lUnHzch1CoQ
 ## PRESENTATION SLIDES
 
 https://docs.google.com/presentation/d/15uJHea_Otp3nlebEcT-BwhZgXAO2qzJcri0-ogiL6C4/view
+
+## Verified Contract Addresses
+
+App is deployed both on mainnet and testnet.
+
+- Mainnet LiquidNFTs: https://tuber.build/address/0xA0d24c5578E267440bD1Aab7BE665Ada6B6fa343/contracts#address-tabs
+- Testnet LiquidNFTs: https://testnet.tuber.build/address/0xF565195c5dbe5Efc2D066Fe56D4F7ed27a9a5DFF
 
 ## What is liquidNFTs?
 
